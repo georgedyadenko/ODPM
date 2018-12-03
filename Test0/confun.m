@@ -1,3 +1,5 @@
+%test0 
+
 function [c, ceq] = confun(x)
 globals
 solution=x+OPT.my_port(1,:);
